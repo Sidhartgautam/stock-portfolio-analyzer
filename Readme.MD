@@ -4,7 +4,7 @@ A small Python project that analyses the risk and return of a portfolio of Austr
 
 I built this to learn portfolio analysis hands-on, working through each technique step by step rather than just copying code.
 
-**Live app:** _add your Streamlit link here after deployment_
+**Live app:** https://stock-portfolio-analyzer-jxyckdjhepv6jpgm79tkeg.streamlit.app/
 
 ## What it does
 
