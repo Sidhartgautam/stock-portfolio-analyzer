@@ -39,7 +39,7 @@ Python, pandas, NumPy, yfinance, Matplotlib, Streamlit
 ## Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/asx-portfolio-risk-analyzer.git
+git clone https://github.com/Sidhartgautam/stock-portfolio-analyzer
 cd asx-portfolio-risk-analyzer
 pip install -r requirements.txt
 streamlit run app.py
