@@ -47,8 +47,8 @@ streamlit run app.py
 
 ## Project files
 
-- `app.py`: the Streamlit dashboard
-- `portfolio_analysis.ipynb`: the notebook where each technique was worked out step by step
+- `dashboard.py`: the Streamlit dashboard
+- `analysis.ipynb`: the notebook where each technique was worked out step by step
 - `requirements.txt`: Python packages needed to run the app
 
 ## Disclaimer
