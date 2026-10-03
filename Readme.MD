@@ -40,7 +40,7 @@ Python, pandas, NumPy, yfinance, Matplotlib, Streamlit
 
 ```bash
 git clone https://github.com/Sidhartgautam/stock-portfolio-analyzer
-cd asx-portfolio-risk-analyzer
+cd stock-portfolio-analyzer
 pip install -r requirements.txt
 streamlit run app.py
 ```
